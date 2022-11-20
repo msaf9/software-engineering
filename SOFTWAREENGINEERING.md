@@ -42,7 +42,7 @@
 4. Prototyping Model
 5. Spiral Model
 6. Agile Methodology Development Models
-   1. Scrum Model
+   1. [Scrum Model](SCRUMMODEL.md)
    2. Kanban Model
 
 ### Software Management
