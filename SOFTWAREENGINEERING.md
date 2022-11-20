@@ -7,6 +7,7 @@
       - [What is software engineering?](#what-is-software-engineering)
     - [Models](#models)
     - [Software Management](#software-management)
+      - [Tools](#tools)
     - [Software Metrics](#software-metrics)
     - [Project Planning](#project-planning)
     - [Risk Management](#risk-management)
@@ -45,6 +46,31 @@
    2. Kanban Model
 
 ### Software Management
+
+<p>Project Management Software is software used by a wide range of industries for project planning, resource allocation and scheduling. It enables project managers as well as entire teams to control their budget, quality management and all documentation exchanged throughout a project. This software also serves as a platform for facilitating collaboration among project stakeholders.</p>
+
+#### Tools
+
+1. [Jira](https://www.atlassian.com/)
+2. [Trello](https://trello.com/)
+3. [ProjectManager.com](https://www.projectmanager.com/)
+4. [Celoxis](https://www.celoxis.com/)
+5. [Plutio](https://www.plutio.com/)
+6. [TeamGantt](https://www.teamgantt.com/)
+7. [Clickup](https://clickup.com/)
+8. [Backlog](https://nulab.com/backlog/)
+9. [LiquidPlanner](https://www.liquidplanner.com/)
+10. [Adobe Workfront](https://business.adobe.com/products/workfront/main.html)
+11. [Hubstaff](https://hubstaff.com/tasks)
+12. [Wrike](https://www.wrike.com/)
+13. [Asana](https://asana.com/)
+14. [Monday.com](https://monday.com/)
+15. [Zoho Projects](https://www.zoho.com/)
+16. [ProofHub](https://www.proofhub.com/)
+17. [Teamwork Projects](https://www.teamwork.com/)
+18. [Nifty](https://niftypm.com/)
+19. [Basecamp](www.basecamp.com)
+20. [MeisterTask](www.meistertask.com)
 
 ### Software Metrics
 
