@@ -109,8 +109,8 @@
 ### Get repository
 
 ```git
-git clone
-cd
+git clone https://github.com/msaf9/SoftwareEngineering.git
+cd SoftwareEngineering
 ```
 
 ## License
