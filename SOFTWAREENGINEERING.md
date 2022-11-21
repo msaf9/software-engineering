@@ -18,11 +18,6 @@
     - [Coding](#coding)
     - [Software Reliability](#software-reliability)
     - [References](#references)
-  - [Technologies](#technologies)
-  - [Project status](#project-status)
-  - [Installation](#installation)
-    - [Get repository](#get-repository)
-  - [License](#license)
 
 ## Introduction
 
@@ -95,22 +90,3 @@
 - [Java T Point](https://www.javatpoint.com/software-engineering-tutorial)
 - [FLEXAGON](https://flexagon.com/blog/7-software-development-models-you-should-know/)
 - [Scrum.org](https://www.scrum.org/resources/what-is-scrum)
-
-## Technologies
-
-- Software Engineering
-
-## Project status
-
-> **WIP**
-
-## Installation
-
-### Get repository
-
-```git
-git clone https://github.com/msaf9/SoftwareEngineering.git
-cd SoftwareEngineering
-```
-
-## License
