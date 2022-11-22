@@ -89,4 +89,3 @@
 
 - [Java T Point](https://www.javatpoint.com/software-engineering-tutorial)
 - [FLEXAGON](https://flexagon.com/blog/7-software-development-models-you-should-know/)
-- [Scrum.org](https://www.scrum.org/resources/what-is-scrum)

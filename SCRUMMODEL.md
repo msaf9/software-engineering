@@ -6,6 +6,7 @@
     - [Scrum Accountabilities](#scrum-accountabilities)
     - [Scrum Events](#scrum-events)
     - [Scrum Artifacts](#scrum-artifacts)
+    - [References](#references)
 
 ## Introduction
 
@@ -67,3 +68,7 @@ Events that create regularity and minimize other meetings
     Commitment: Definition of Done -  the description of what it takes for an Increment to be considered complete.
 
 </p>
+
+### References
+
+- [Scrum.org](https://www.scrum.org/resources/what-is-scrum)
