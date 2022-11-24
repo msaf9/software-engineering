@@ -71,6 +71,8 @@
 
 <p>A software metric is a measure of software characteristics that are quantifiable or countable. Software metrics are important for many reasons, including measuring software performance, planning work items, measuring productivity, and many other uses.</p>
 
+[Examples of Software Metrics](SOFTWAREMETRICS.md)
+
 ### Project Planning
 
 ### Risk Management
