@@ -89,7 +89,7 @@
 
 <p>Coding is a subset of programming.</p>
 
-Know more [Coding](#CODING.md)?
+Know more about [Coding](CODING.md)?
 
 ### Software Reliability
 
