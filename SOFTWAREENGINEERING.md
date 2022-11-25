@@ -87,6 +87,10 @@
 
 ### Coding
 
+<p>Coding is a subset of programming.</p>
+
+Know more [Coding](#CODING.md)?
+
 ### Software Reliability
 
 ### References
@@ -94,3 +98,4 @@
 - [Java T Point](https://www.javatpoint.com/software-engineering-tutorial)
 - [FLEXAGON](https://flexagon.com/blog/7-software-development-models-you-should-know/)
 - [Stackify](https://stackify.com/track-software-metrics/)
+- [Free Code Camp](https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/)
