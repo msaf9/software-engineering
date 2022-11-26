@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Learn about [Software Engineering](SOFTWAREENGINEERING.md).
+Learn about [Software Engineering](https://msaf9.github.io/SoftwareEngineering/).
 
 ## Technologies
 
