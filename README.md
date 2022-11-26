@@ -1,11 +1,11 @@
 <h1> Software Engineering </h1>
 
-- [Introduction](#introduction)
+<!-- - [Introduction](#introduction)
 - [Technologies](#technologies)
 - [Project status](#project-status)
 - [Installation](#installation)
   - [Get repository](#get-repository)
-- [License](#license)
+- [License](#license) -->
 
 ## Introduction
 
