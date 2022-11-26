@@ -1,12 +1,11 @@
-# Scrum Model
+<h1> Scrum Model </h1>
 
-- [Scrum Model](#scrum-model)
-  - [Introduction](#introduction)
-  - [What makes up the Scrum Framework?](#what-makes-up-the-scrum-framework)
-    - [Scrum Accountabilities](#scrum-accountabilities)
-    - [Scrum Events](#scrum-events)
-    - [Scrum Artifacts](#scrum-artifacts)
-    - [References](#references)
+<!-- - [Introduction](#introduction)
+- [What makes up the Scrum Framework?](#what-makes-up-the-scrum-framework)
+  - [Scrum Accountabilities](#scrum-accountabilities)
+  - [Scrum Events](#scrum-events)
+  - [Scrum Artifacts](#scrum-artifacts)
+  - [References](#references) -->
 
 ## Introduction
 
