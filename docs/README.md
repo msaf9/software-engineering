@@ -74,6 +74,10 @@
 
 ### Project Planning
 
+<p>A Software Project is the complete methodology of programming advancement from requirement gathering to testing and support, completed by the execution procedures, in a specified period to achieve intended software product.</p>
+
+Read more about [Planning](PROJECTPLANNING.md)
+
 ### Risk Management
 
 ### Software Requirement
@@ -94,7 +98,8 @@ Know more about [Coding](CODING.md)?
 
 ### References
 
-- [Java T Point](https://www.javatpoint.com/software-engineering-tutorial)
+- [Software Engineering - Java T Point](https://www.javatpoint.com/software-engineering-tutorial)
+- [Project Planning - Java T Point](https://www.javatpoint.com/software-project-planning)
 - [FLEXAGON](https://flexagon.com/blog/7-software-development-models-you-should-know/)
 - [Stackify](https://stackify.com/track-software-metrics/)
 - [Free Code Camp](https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/)
