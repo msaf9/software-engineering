@@ -2,29 +2,6 @@
 
 <h1> Examples of Software Metrics </h1>
 
-<!-- - [Introduction](#introduction)
-- [Agile process metrics](#agile-process-metrics)
-- [Lead time](#lead-time)
-- [Cycle time](#cycle-time)
-- [Team velocity](#team-velocity)
-- [Open/close rates](#openclose-rates)
-- [Production](#production)
-- [Active days](#active-days)
-- [Assignment scope](#assignment-scope)
-- [Efficiency](#efficiency)
-- [Code churn](#code-churn)
-- [Impact](#impact)
-- [Mean time between failures (MTBF) and mean time to recover/repair (MTTR)](#mean-time-between-failures-mtbf-and-mean-time-to-recoverrepair-mttr)
-- [Application crash rate (ACR)](#application-crash-rate-acr)
-- [Security metrics](#security-metrics)
-- [Endpoint incidents](#endpoint-incidents)
-- [Mean time to repair (MTTR)](#mean-time-to-repair-mttr)
-- [Size-oriented metrics](#size-oriented-metrics)
-- [Function-oriented metrics](#function-oriented-metrics)
-- [Errors per FP or Defects per FP](#errors-per-fp-or-defects-per-fp)
-- [Defect Removal Efficiency (DRE)](#defect-removal-efficiency-dre)
-- [References](#references) -->
-
 ## Introduction
 
 <p>There is no standard or definition of software metrics that have value to software development teams. And software metrics have different value to different teams. It depends on what are the goals for the software development teams.</p>

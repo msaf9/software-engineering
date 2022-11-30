@@ -2,11 +2,6 @@
 
 <h1> Coding </h1>
 
-<!-- - [Introduction](#introduction)
-  - [What is Programming?](#what-is-programming)
-  - [What is Coding?](#what-is-coding)
-- [References](#references) -->
-
 ## Introduction
 
 ### What is Programming?
