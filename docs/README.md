@@ -82,6 +82,18 @@ Read more about [Planning](PROJECTPLANNING.md)
 
 ### Software Requirement
 
+<p>Software requirements for a system are the description of what the system should do, the service or services that it provides and the constraints on its operation. The IEEE Standard Glossary of Software Engineering Terminology defines a requirement as:</p>
+
+1. A condition or capability needed by a user to solve a problem or achieve an objective.
+2. A condition or capability that must be met or possessed by a system or system component to satisfy a contract, standard, specification, or other formally imposed document.
+3. A documented representation of a condition or capability as in 1 or 2.
+
+<p>The activities related to working with software requirements can broadly be broken down into elicitation, analysis, specification, and management.</p>
+
+<p>Note that the wording Software requirements is additionally used in software release notes to explain, which depending software packages are required for a certain software to be built/installed/used.</p>
+
+Know more about [Software Requirements](SOFTWAREREQUIREMENTS.md)?
+
 ### Software Configuration
 
 ### Software Quality
@@ -103,3 +115,4 @@ Know more about [Coding](CODING.md)?
 - [FLEXAGON](https://flexagon.com/blog/7-software-development-models-you-should-know/)
 - [Stackify](https://stackify.com/track-software-metrics/)
 - [Free Code Camp](https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/)
+- [Software Requirement - Wikipedia](https://en.wikipedia.org/wiki/Software_requirements)
