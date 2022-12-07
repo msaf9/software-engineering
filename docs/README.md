@@ -80,6 +80,10 @@ Read more about [Planning](PROJECTPLANNING.md)
 
 ### Risk Management
 
+<p>Software development is activity that uses a variety of technological advancements and requires high levels of knowledge. Because of these and other factors, every software development project contains elements of uncertainty. This is known as project risk. The success of a software development project depends quite heavily on the amount of risk that corresponds to each project activity. As a project manager, it’s not enough to merely be aware of the risks. To achieve a successful outcome, project leadership must identify, assess, prioritize, and manage all of the major risks.</p>
+
+Understand more about [Risk Management](RISKMANAGEMENT.md)?
+
 ### Software Requirement
 
 <p>Software requirements for a system are the description of what the system should do, the service or services that it provides and the constraints on its operation. The IEEE Standard Glossary of Software Engineering Terminology defines a requirement as:</p>
