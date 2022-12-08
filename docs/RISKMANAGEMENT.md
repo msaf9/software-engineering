@@ -14,4 +14,8 @@
 
 <p>Guesswork and crisis-management are never effective. Identifying and aggregating risks is the only predictive method for capturing the probability that a software development project will experience unplanned or inadmissible events. These include terminations, discontinuities, schedule delays, cost underestimation, and overrun of project resources</p>
 
+## References
+
+- [Software Quality - ASQ](https://asq.org/quality-resources/software-quality#:~:text=Software%20quality%20is%20defined%20as,defect%20management%20and%20quality%20attributes.)
+
 [Back](README.md)
