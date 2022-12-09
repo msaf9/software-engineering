@@ -100,6 +100,10 @@ Know more about [Software Requirements](SOFTWAREREQUIREMENTS.md)?
 
 ### Software Configuration
 
+<p>As you’re no doubt aware, in software engineering, software configuration management (SCM) refers to a process for maintaining computer systems, servers, and software in a desired, consistent state.</p>
+
+Get more about [Software Configuration](SOFTWARECONFIGURATION.md)?
+
 ### Software Quality
 
 <p>Software quality is defined as a field of study and practice that describes the desirable attributes of software products. There are two main approaches to software quality: defect management and quality attributes.</p>
@@ -122,6 +126,7 @@ Know more about [Coding](CODING.md)?
 - [Project Planning - Java T Point](https://www.javatpoint.com/software-project-planning)
 - [FLEXAGON](https://flexagon.com/blog/7-software-development-models-you-should-know/)
 - [Stackify](https://stackify.com/track-software-metrics/)
+- [Software Configuration - QA LEAD](https://theqalead.com/topics/software-configuration-management-process/)
 - [Software Quality - ASQ](https://asq.org/quality-resources/software-quality#:~:text=Software%20quality%20is%20defined%20as,defect%20management%20and%20quality%20attributes.)
 - [Free Code Camp](https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/)
 - [Software Requirement - Wikipedia](https://en.wikipedia.org/wiki/Software_requirements)
