@@ -112,6 +112,10 @@ Read more about [Software Quality](SOFTWAREQUALITY.md).
 
 ### Software Design
 
+<p>Software design is the process of envisioning and defining software solutions to one or more sets of problems. One of the main components of software design is the software requirements analysis (SRA).</p>
+
+[More](SOFTWAREDESIGN.md)?
+
 ### Coding
 
 <p>Coding is a subset of programming.</p>
@@ -130,3 +134,4 @@ Know more about [Coding](CODING.md)?
 - [Software Quality - ASQ](https://asq.org/quality-resources/software-quality#:~:text=Software%20quality%20is%20defined%20as,defect%20management%20and%20quality%20attributes.)
 - [Free Code Camp](https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/)
 - [Software Requirement - Wikipedia](https://en.wikipedia.org/wiki/Software_requirements)
+- [Software Design - Wikipedia](https://en.wikipedia.org/wiki/Software_design)
