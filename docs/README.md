@@ -124,6 +124,10 @@ Know more about [Coding](CODING.md)?
 
 ### Software Reliability
 
+<p>Software Reliability is the probability of failure-free software operation for a specified period of time in a specified environment.</p>
+
+Under more about [Software Reliability](SOFTWARERELIABILITY.md)?
+
 ### References
 
 - [Software Engineering - Java T Point](https://www.javatpoint.com/software-engineering-tutorial)
@@ -135,3 +139,4 @@ Know more about [Coding](CODING.md)?
 - [Free Code Camp](https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/)
 - [Software Requirement - Wikipedia](https://en.wikipedia.org/wiki/Software_requirements)
 - [Software Design - Wikipedia](https://en.wikipedia.org/wiki/Software_design)
+- [Software Reliability - By Jiantao Pan, Carnegie Mellon University](https://users.ece.cmu.edu/~koopman/des_s99/sw_reliability/)
