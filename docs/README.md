@@ -37,7 +37,7 @@
 5. Spiral Model
 6. Agile Methodology Development Models
    1. [Scrum Model](SCRUMMODEL.md)
-   2. Kanban Model
+   2. [Kanban Model](KANBAN.md)
 
 ### Software Management
 
