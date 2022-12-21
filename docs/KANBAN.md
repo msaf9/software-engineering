@@ -34,18 +34,17 @@
 
 <p>Kanban Workflow is a set of steps that helps teams to define explicit policies and principles in Kanban. It represents the rules and procedures while the work is going on across various stages of development and delivery cycles. Kanban workflow consists of step-by-step processes between starting and the delivery of a particular task.</p>
 
-|                       |                                                     |     |     |     |     |     |     |     |     |
-| --------------------- | --------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| States                | Understanding of tasks                              |     |     |     |     |     |     |     |     |
-| To-do                 | Tasks arrive here for the first time in this state. |     |     |     |     |     |     |     |     |
-| Ready for analysis    | Analyze the task and add requirements completely.   |     |     |     |     |     |     |     |     |
-| Ready for development | Analysis completed and development can start.       |     |     |     |     |     |     |     |     |
-| In the development    | Tasks are being developed.                          |     |     |     |     |     |     |     |     |
-| Ready for testing     | Development completed, and now testing can start.   |     |     |     |     |     |     |     |     |
-| In the testing        | Tasks are being tested.                             |     |     |     |     |     |     |     |     |
-| Ready for release     | Testing completed; release can happen.              |     |     |     |     |     |     |     |     |
-| Released/Done         | Released.                                           |     |     |     |     |     |     |     |     |
-|                       |                                                     |     |     |     |     |     |     |     |     |
+|                       |                                                     |
+| --------------------- | --------------------------------------------------- |
+| States                | Understanding of tasks                              |
+| To-do                 | Tasks arrive here for the first time in this state. |
+| Ready for analysis    | Analyze the task and add requirements completely.   |
+| Ready for development | Analysis completed and development can start.       |
+| In the development    | Tasks are being developed.                          |
+| Ready for testing     | Development completed, and now testing can start.   |
+| In the testing        | Tasks are being tested.                             |
+| Ready for release     | Testing completed; release can happen.              |
+| Released/Done         | Released.                                           |
 
 ## Principles of Kanban
 
