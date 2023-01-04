@@ -30,7 +30,7 @@
 
 ### Models
 
-1. Waterfall Model
+1. [Waterfall Model](WATERFALLMODEL.md)
 2. V-Model
 3. Iterative (and Incremental) Model
 4. Prototyping Model
