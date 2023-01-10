@@ -31,7 +31,7 @@
 ### Models
 
 1. [Waterfall Model](WATERFALLMODEL.md)
-2. V-Model
+2. [V-Model](VMODEL.md)
 3. Iterative (and Incremental) Model
 4. Prototyping Model
 5. Spiral Model
