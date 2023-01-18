@@ -34,7 +34,7 @@
 2. [V-Model](VMODEL.md)
 3. Iterative (and Incremental) Model
 4. Prototyping Model
-5. Spiral Model
+5. [Spiral Model](SPIRALMODEL.md)
 6. [Agile Methodology Development Models](AGILEMETHODOLOGYDEVELOPMENT.md)
    1. [Scrum Model](SCRUMMODEL.md)
    2. [Kanban Model](KANBAN.md)
