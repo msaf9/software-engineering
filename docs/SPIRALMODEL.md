@@ -17,6 +17,39 @@
 3. Engineering phase.
 4. Evaluation phase.
 
+## When to Use?
+
+<p>Spiral model is used in the following scenarios:</p>
+
+- When the project is large.
+- Where the software needs continuous risk evaluation.
+- Requirements are a bit complicated and require continuous clarification.
+- Software requires significant changes.
+- Where enough time frame is their to get end user feedback.
+- Where releases are required to be frequent.
+
+## Advantages
+
+<p>Advantages of using Spiral model are as follows:</p>
+
+- Development is fast
+- Larger projects / software are created and handled in a strategic way
+- Risk evaluation is proper.
+- Control towards all the phases of development.
+- More and more features are added in a systematic way.
+- Software is produced early.
+- Has room for customer feedback and the changes are implemented faster.
+
+## Disadvantages
+
+<p>Disadvantages of Spiral model are as follows:</p>
+
+- Risk analysis is important phase so requires expert people.
+- Is not beneficial for smaller projects.
+- Spiral may go infinitely.
+- Documentation is more as it has intermediate phases.
+- It is costly for smaller projects.
+
 ## References
 
 - [Spiral Model - Software Testing Help](https://www.softwaretestinghelp.com/spiral-model-what-is-sdlc-spiral-model/)
