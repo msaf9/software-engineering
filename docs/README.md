@@ -32,7 +32,7 @@
 
 1. [Waterfall Model](WATERFALLMODEL.md)
 2. [V-Model](VMODEL.md)
-3. Iterative (and Incremental) Model
+3. [Iterative (and Incremental) Model](ITERATIVEMODEL.md)
 4. [Prototyping Model](PROTOTYPINGMODEL.md)
 5. [Spiral Model](SPIRALMODEL.md)
 6. [Agile Methodology Development Models](AGILEMETHODOLOGYDEVELOPMENT.md)
