@@ -21,4 +21,8 @@
 - The errors and bugs in the system can be identified early.
 - Takes smaller development teams as compared to other process models.
 
+## References
+
+- [Iterative Model - ArtOfTesting](https://artoftesting.com/iterative-model)
+
 [Back](README.md)
