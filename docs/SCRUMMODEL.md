@@ -6,7 +6,7 @@
 
 <p>If you are just getting started, think of Scrum as a way to get work done as a team in small pieces at a time, with continuous experimentation and feedback loops along the way to learn and improve as you go. Scrum helps people and teams deliver value incrementally in a collaborative way. As an agile framework, Scrum provides just enough structure for people and teams to integrate into how they work, while adding the right practices to optimize for their specific needs.</p>
 
-![Scrum Mode](resources/scrum_framework.png 'Scrum Model')
+![Scrum Model](resources/scrum_framework.png 'Scrum Model')
 
 ## What makes up the Scrum Framework?
 
