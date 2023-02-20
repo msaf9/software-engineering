@@ -31,6 +31,24 @@
 7. Maintenance:
    <p>Corrective, adaptive and perfective maintenance is carried out indefinitely to improve, update and enhance the product and its functionality. This could include releasing patch updates and new versions.</p>
 
+## Advantages
+
+<p>Today, Agile methodology is often used in place of the waterfall model. However, there are advantages to the waterfall approach, such as the following:</p>
+
+- Enables large or changing teams to move toward a common goal that's been defined in the requirements stage.
+
+- Forces structured, disciplined organization.
+
+- Simplifies understanding, following and arranging tasks.
+
+- Facilitates departmentalization and managerial control based on the schedule or deadlines.
+
+- Reinforces good coding habits to define before implementing design and then code.
+
+- Enables early system design and specification changes to be easily do.
+
+- Clearly defines milestones and deadlines.
+
 ## References
 
 - [ScienceDirect](https://www.sciencedirect.com/topics/computer-science/waterfall-methodology)
