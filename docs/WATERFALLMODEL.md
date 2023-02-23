@@ -49,6 +49,26 @@
 
 - Clearly defines milestones and deadlines.
 
+## Disadvantages
+
+<p>Disadvantages of the waterfall model typically center around the risk associated with a lack of revision and flexibility. Specific issues include the following:</p>
+
+- Design isn't adaptive; when a flaw is found, the entire process often needs to start over.
+
+- Method doesn't incorporate midprocess user or client feedback, and makes changes based on results.
+
+- Waterfall model delays testing until the end of the development lifecycle.
+
+- It doesn't consider error correction.
+
+- The methodology doesn't handle requests for changes, scope adjustments and updates well.
+
+- Waterfall doesn't let processes overlap for simultaneous work on different phases, reducing overall efficiency.
+
+- No working product is available until the later stages of the project lifecycle.
+
+- Waterfall isn't ideal for complex, high-risk ongoing projects.
+
 ## References
 
 - [ScienceDirect](https://www.sciencedirect.com/topics/computer-science/waterfall-methodology)
