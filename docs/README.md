@@ -38,7 +38,7 @@
 6. [Agile Methodology Development Models](AGILEMETHODOLOGYDEVELOPMENT.md)
    1. [Scrum Model](SCRUMMODEL.md)
    2. [Kanban Model](KANBAN.md)
-   3. Spotify Model
+   3. [Spotify Model](SPOTIFYMODEL.md)
 
 ### Software Management
 
