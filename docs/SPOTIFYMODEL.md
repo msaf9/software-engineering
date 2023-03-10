@@ -34,6 +34,10 @@
 
 <p>As organizations scale, sometimes multiple Tribes need to closely work together to accomplish a goal. Alliances are a combination of Tribe Trios (typically three or more) that work together to help their Tribes collaborate on a goal that is bigger than any one Tribe.</p>
 
+## Benefits
+
+<p>When Spotify changed the way they scaled agile they wanted to enable Squads to move fast, ship software quickly, and do so all with minimum pain and overhead. They realized these benefits and more as they took their model and evolved it. The organizational benefits of implementing the Spotify model include:</p>
+
 ## References
 
 - [Spotify Model - Atlassain](https://www.atlassian.com/agile/agile-at-scale/spotify)
