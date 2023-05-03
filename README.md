@@ -17,7 +17,7 @@ Learn about [Software Engineering](https://msaf9.github.io/SoftwareEngineering/)
 
 ## Project status
 
-> **WIP**
+> **Complete**
 
 ## Installation
 
