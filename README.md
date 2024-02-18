@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Learn about [Software Engineering](https://msaf9.github.io/SoftwareEngineering/).
+Learn about [Software Engineering](https://msaf9.github.io/software-engineering/).
 
 ## Technologies
 
@@ -24,8 +24,8 @@ Learn about [Software Engineering](https://msaf9.github.io/SoftwareEngineering/)
 ### Get repository
 
 ```git
-git clone https://github.com/msaf9/SoftwareEngineering.git
-cd SoftwareEngineering
+git clone https://github.com/msaf9/software-engineering.git
+cd software-engineering
 ```
 
 ## License
