@@ -1,7 +1,9 @@
 <h1> Software Engineering </h1>
 
+<h2>Table of contents</h2>
+
 - [Introduction](#introduction)
-- [Technologies](#technologies)
+- [Discipline](#discipline)
 - [Project status](#project-status)
 - [Installation](#installation)
   - [Get repository](#get-repository)
@@ -11,7 +13,7 @@
 
 Learn about [Software Engineering](https://msaf9.github.io/software-engineering/).
 
-## Technologies
+## Discipline
 
 - Software Engineering
 
